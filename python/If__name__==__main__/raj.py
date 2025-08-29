@@ -1,2 +1,0 @@
-import ranju
-ranju.ranju()
