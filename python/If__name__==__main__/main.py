@@ -1,0 +1,2 @@
+import ranju
+ranju.ranju()
