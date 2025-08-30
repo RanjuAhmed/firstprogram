@@ -1,5 +1,0 @@
-print("Hello world")
-print("hello world")
-print("Hello world")
-a= int(input("Enter your number"))
-print(a)
